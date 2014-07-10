@@ -6,7 +6,10 @@ public class Test4 {
 	
 	public void init(){
 		int bb = 3;
+<<<<<<< HEAD
 		int aa = 3;
+=======
+>>>>>>> refs/remotes/origin/master
 	}
 
 	public Integer getInitValue() {
