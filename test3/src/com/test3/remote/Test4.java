@@ -7,6 +7,7 @@ public class Test4 {
 	public void init(){
 		int bb = 3;
 		int cc = 3;
+		int b = 5;
 	}
 
 	public Integer getInitValue() {
