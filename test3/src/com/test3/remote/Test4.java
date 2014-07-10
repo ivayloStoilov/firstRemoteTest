@@ -8,6 +8,7 @@ public class Test4 {
 		int bb = 3;
 		int cc = 3;
 		int b = 5;
+		int v = 54;
 	}
 
 	public Integer getInitValue() {
